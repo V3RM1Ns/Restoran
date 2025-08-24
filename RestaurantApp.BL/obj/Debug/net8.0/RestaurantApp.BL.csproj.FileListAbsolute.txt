@@ -1,0 +1,36 @@
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.csproj.AssemblyReference.cache
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.AssemblyInfoInputs.cache
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.AssemblyInfo.cs
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.csproj.CoreCompileInputs.cache
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.sourcelink.json
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/bin/Debug/net8.0/RestaurantApp.BL.deps.json
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/bin/Debug/net8.0/RestaurantApp.BL.dll
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/bin/Debug/net8.0/RestaurantApp.BL.pdb
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/bin/Debug/net8.0/RestaurantApp.Core.dll
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/bin/Debug/net8.0/RestaurantApp.DAL.dll
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/bin/Debug/net8.0/RestaurantApp.DAL.pdb
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/bin/Debug/net8.0/RestaurantApp.Core.pdb
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/obj/Debug/net8.0/Restaura.C9CD7A5B.Up2Date
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.dll
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/obj/Debug/net8.0/refint/RestaurantApp.BL.dll
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.pdb
+C:/Users/Mahir/Desktop/RestaurantApp/RestaurantApp.BL/obj/Debug/net8.0/ref/RestaurantApp.BL.dll
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.dll
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/obj/Debug/net8.0/refint/RestaurantApp.BL.dll
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.pdb
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.csproj.AssemblyReference.cache
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.AssemblyInfoInputs.cache
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.AssemblyInfo.cs
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/obj/Debug/net8.0/RestaurantApp.BL.sourcelink.json
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/bin/Debug/net8.0/RestaurantApp.BL.deps.json
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/bin/Debug/net8.0/RestaurantApp.BL.dll
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/bin/Debug/net8.0/RestaurantApp.BL.pdb
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/bin/Debug/net8.0/RestaurantApp.Core.dll
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/bin/Debug/net8.0/RestaurantApp.DAL.dll
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/bin/Debug/net8.0/RestaurantApp.DAL.pdb
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/bin/Debug/net8.0/RestaurantApp.Core.pdb
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/obj/Debug/net8.0/Restaura.C9CD7A5B.Up2Date
+/Users/apple/Desktop/RestaurantApp 2/RestaurantApp.BL/obj/Debug/net8.0/ref/RestaurantApp.BL.dll
